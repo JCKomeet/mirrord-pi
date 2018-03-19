@@ -1,0 +1,6 @@
+[submodule "hotspot_config"]
+	path = hotspot_config
+	url = https://github.com/JCKomeet/hotspot_config
+[submodule "mirrord"]
+	path = mirrord
+	url = https://github.com/JCKomeet/mirrord
